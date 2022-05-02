@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/calibrate.png</file>
+    <file>images/cam.png</file>
+    <file>images/ok_.png</file>
+    <file>images/submit_.png</file>
+    <file>images/save__.png</file>
+    <file>images/logout.jpeg</file>
+    <file>images/login_.png</file>
+    <file>images/grmaton.jpg</file>
+  </qresource>
+</RCC>
